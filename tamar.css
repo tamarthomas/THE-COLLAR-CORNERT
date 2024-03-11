@@ -1,0 +1,54 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+/*Menú*/
+
+.menu{
+    background-color:deeppink;
+    display: flex;
+    justify-content: right;
+}
+
+.navegacion ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.navegacion ul li a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+/*Sección del contendo ¡TAMAR!*/
+
+.contenido{
+    margin-bottom: 200px;
+}
+
+.c1{
+    display:flex;
+    justify-content:right
+}
+
+
+.img-contenido{
+    width: 25%;
+    height: 10%;
+
+    
+}
+ .hello{
+    text-align: center;
+    color:deeppink;
+ }
+footer{
+    text-align: center;
+    color:deeppink;
+ }
+
+
+ 
